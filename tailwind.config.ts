@@ -12,9 +12,9 @@ export default {
         custom: ["Montserrat", "sans-serif"],
       },
       colors: {
-        primary: "#fde68a",
-        secondary: "#3322dd"
-      },
+        primary: "#fbefe6",
+        secondary: "#bf894c"
+      }
     },
   },
   plugins: [],
